@@ -1,4 +1,4 @@
-# miniProxy
+# miniProxy #
 
 *by Joshua Dick*
 
